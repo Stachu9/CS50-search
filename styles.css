@@ -1,0 +1,42 @@
+.right-links {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.container {
+    margin: 50px;
+    position: relative;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+
+.left {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 5px;
+}
+
+label {
+    width: 170px;
+}
+
+a {
+    margin: 5px;
+}
+
+.label {
+    margin-right: 5px;
+}
+
+#blue-button {
+    background-color: blue;
+    color: white;
+
+}
